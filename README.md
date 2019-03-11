@@ -1,4 +1,4 @@
-# hello-world-npm-module
+# hello-world-npm-pack
 
 The hello-world-npm-module is a demo package created for article written in the 
 medium.
